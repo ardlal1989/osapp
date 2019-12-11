@@ -1,3 +1,3 @@
 <?php
-  echo "<img src='https://s3.us-east.cloud-object-storage.appdomain.cloud/mytestbucket9999/Poster.JPG' alt='Openshift on Oracle' />";
+  echo "<img src='image.JPG' alt='Openshift on Oracle' />";
 ?>
