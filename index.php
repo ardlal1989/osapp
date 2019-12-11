@@ -1,3 +1,3 @@
 <?php
-  echo "<img src='image.JPG' alt='Openshift on Oracle' />";
+  echo "<img src=image.JPG alt='Openshift on Oracle' />";
 ?>
